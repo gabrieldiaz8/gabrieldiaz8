@@ -13,13 +13,13 @@
 
 ### 💡 &nbsp;About Me
 
-I am a student of Information Systems Engineering 🧑‍💻, presently in my third year of the degree.
+I am a student of Information Systems Engineering 🧑‍💻, presently in my fourth year of the degree.
 
 I love being in constant learning and facing new challenges that expand my knowledge.
 
 📓 I'm currently learning...
 
-MySQL
+PostgreSQL
 
 📧 Contact me at gabidiaz4231@gmail.com
 
@@ -29,6 +29,10 @@ MySQL
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript];
+![TypeScript];
+![NestJS];
+![Angular];
 
 ### 🗃 &nbsp;Projects
 
