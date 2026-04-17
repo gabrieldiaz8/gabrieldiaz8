@@ -19,7 +19,7 @@ I love being in constant learning and facing new challenges that expand my knowl
 
 📓 I'm currently learning...
 
-PostgreSQL
+Wireshark with Packet Tracer
 
 📧 Contact me at gabidiaz4231@gmail.com
 
