@@ -29,10 +29,38 @@ PostgreSQL
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript];
-![TypeScript];
-![NestJS];
-![Angular];
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+### 🛠 Tools & Platforms
+![Wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)&nbsp;
+![ClickUp](https://img.shields.io/badge/clickup-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)&nbsp;
+
 
 ### 🗃 &nbsp;Projects
+### 🗃 &nbsp;Projects
+
+- **Sistema de Gestión de Turnos "Mi Cancha"**  
+  Documentación completa con análisis de requerimientos y modelado UML.  
+  Implementado con **Angular** (frontend) y **NestJS** (backend).  
+  Uso de **Supabase** como storage y la API de **Mercado Pago** para cobros.  
+
+- **Aplicación de logística (inspirada en Pedidos Ya)**  
+  Desarrollo de aplicación para gestión de pedidos y entregas.  
+
+- **Landing Page para el comedor Caritas Felices**  
+  Página informativa y de contacto para la organización.  
+
+- **Modelado de Sistema ITV (basado en empresa Apluss)**  
+  Diseño y modelado de sistema de inspección técnica vehicular.  
 
