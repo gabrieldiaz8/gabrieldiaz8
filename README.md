@@ -48,7 +48,6 @@ Wireshark with Packet Tracer
 
 
 ### 🗃 &nbsp;Projects
-### 🗃 &nbsp;Projects
 
 - **Sistema de Gestión de Turnos "Mi Cancha"**  
   Documentación completa con análisis de requerimientos y modelado UML.  
